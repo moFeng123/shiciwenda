@@ -1,0 +1,11 @@
+1, 从同一个poemSet里面得到四组poemUnit,其中一组为选中问题，其他三组为迷惑
+2，显示：
+	框：firstSen or secondSen
+		1，oneSen
+		2，oneSen
+		3，oneSen
+		4，oneSen
+		1，2，3，4有一个为答案
+
+3，选对+1分，选错0分，当分数为负数时候自动退出，20道题为满。
+4，显示总分
